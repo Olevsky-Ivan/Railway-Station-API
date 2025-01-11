@@ -206,3 +206,5 @@ pytest
 
 This project uses the MIT License. ✅
 
+Docker Structure
+[train_session_diagram_a620513487.webp](..%2F..%2F..%2F..%2FAppData%2FLocal%2FTemp%2Ftrain_session_diagram_a620513487.webp)
